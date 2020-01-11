@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "adobe"
   icon_pack = "fab"
-  name = "R"
+  name = "Adobe Creative Suite"
   description = "90%"
   
 [[feature]]
-  icon = "bacon"
+  icon = "comment"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Communication"
   description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "75%"
 
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "HTML"
+  description = "75%"
+  
 +++
