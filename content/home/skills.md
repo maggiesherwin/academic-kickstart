@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "comment"
+  icon = "comments"
   icon_pack = "fas"
   name = "Communication"
   description = "100%"  
