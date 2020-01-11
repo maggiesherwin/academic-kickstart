@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Maggie Sherwin is a fourth year History major with a minor in Film. Her research interests include the way that physical experience impacts how we consume history, material culture, and folklore.
+Maggie Sherwin is a fourth year History major with a minor in Film. Her research interests include the way that physical experience impacts how we consume history, material culture, and folklore. She was the primary archive manager for the 16mm NFB collection from 2015-2019, but now is working with Carleton's Centre for Public History on their kiosk project.
