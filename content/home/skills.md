@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "alien"
+  icon = "bacon"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
