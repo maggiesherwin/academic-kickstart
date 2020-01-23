@@ -18,27 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Curator"
+  company = "Carleton Centre for Public History"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Ottawa"
+  date_start = "2019-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Researched local businesses to complete public history project for multiple BIAs."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Archive Manager"
+  company = "Carleton University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ottawa"
+  date_start = "2015-10-01"
+  date_end = "2019-03-31"
+  description = """Managed, evaluated, and improved the database of Carleton University's 16mm NFB film archive."""
 
 +++
