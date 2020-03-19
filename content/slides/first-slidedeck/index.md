@@ -26,7 +26,11 @@ By Maggie Sherwin
 
 ---
 
-> a quotation about cows goes here. Magni voluptatem minima voluptas. Doloremque esse quos ea ut blanditiis sapiente fuga. Aut sed sit non. Voluptates perspiciatis dicta voluptatum. Qui aut harum est quod. Ducimus cum in doloremque consectetur.
+### Online Curated Archives
+
++ Specific collections creaed by a curator
++ Gives access to the curator to add things to their archive that they might not have had access to, allowing them to grow their collection
++ Able to give personality to the collections through paradata
 
 ---
 
