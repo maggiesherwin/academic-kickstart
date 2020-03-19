@@ -6,15 +6,13 @@ slides:
   theme: serif
 ---
 
-# My Slide show
+# Curated Collections Online
 
-By Joe Q. Student
+By Maggie Sherwin
 
 ---
 
 ## Part One
-
-![image of a cow](https://cdn.britannica.com/s:700x500/55/174255-050-526314B6/brown-Guernsey-cow.jpg)
 
 + Cows are wonderful
 + Cows are big
