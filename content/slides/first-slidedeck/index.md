@@ -22,6 +22,7 @@ By Maggie Sherwin
 
 + Datathons
 + Analyzing large amounts of data
++ Text mining
 
 ---
 
