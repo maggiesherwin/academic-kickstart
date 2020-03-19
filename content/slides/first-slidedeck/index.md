@@ -14,13 +14,14 @@ By Maggie Sherwin
 
 ## Part One
 
-+ Cows are wonderful
-+ Cows are big
+### Using Online Archives
 
-{{% speaker_note %}}
-Cows have been part of human history since time immemorial. Archaeological research demonstrates that...
+---
 
-{{% /speaker_note %}}
+### Ways that online archives can be used
+
++ Datathons
++ Analyzing large amounts of data
 
 ---
 
