@@ -1,5 +1,5 @@
 ---
-date: 2020-01-20
+date: 2020-04-04
 title: Seminar Topic - Digital Archives
 summary: Discussing the benefits, uses, and issues surrounding Digital Archives
 
