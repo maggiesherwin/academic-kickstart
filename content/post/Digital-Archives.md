@@ -21,7 +21,11 @@ For my post, I will be discussing the digital archives that digital versions of 
 
 Because of the limited capabilities of the internet (i.e. we cannot download a pizza YET), archives are mostly useful for media that can be in a file format that can be downladed like music, images, ebooks, or movies. 
 
+### Benefits
+
 Digital archives are useful for us as historians because they make often difficult to find sources searchable and available for use. These archives are brought further with the addition of meta- and paradata which add context and can be used to create a narrative. This is why while a collection of files is technically an archive, it is in the way that an old man's collection of newspapers since the 80s are: it's interesting and a lot of stuff, but more work has to be done to make it usable. 
+
+Digital archives are also good in that they allow the archivists to access files and sources in order to add them to their own collections, enriching networks between archives in a way that traditional means do not allow. Duplicating a public domain file is much easier than duplicating a real object. 
 
 ### Creating Digital Archives
 
