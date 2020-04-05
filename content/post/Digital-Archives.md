@@ -15,7 +15,7 @@ tags:
 
 # Digital Archives
 
-Digital archives are digital collections of primary sources that are compiled for a specific purpose. Archives differ from databases in that they make the actual archived object available for the user to access, as opposed to databases which simply share information about these objects. For example, IMDB is a database containing information about films, while one's itunes library is an archive in that it also makes the actual music available alongside the informtation.
+For my post, I will be discussing how media archives have been moving online, as opposed to the archiving of files and specific states of a computer. Because of this, I define digital archives as digital collections of primary sources that are compiled for a specific purpose. Digital archives differ from databases in that they make the actual archived object available for the user to access, as opposed to databases which simply share information about these objects. For example, IMDB is a database containing information about films, while one's itunes library is an archive in that it also makes the actual music available alongside the informtation.
 
 Because of the limited capabilities of the internet (i.e. we cannot download a pizza YET), archives are mostly useful for media that can be in a file format that can be downladed like music, images, ebooks, or movies. 
 
