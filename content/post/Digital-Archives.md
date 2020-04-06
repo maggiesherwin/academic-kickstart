@@ -25,9 +25,9 @@ For my post, I will be discussing the digital archives that digital versions of 
 
 Because of the limited capabilities of the internet (i.e. we cannot download a pizza YET), archives are mostly useful for media that can be in a file format that can be downladed like music, images, ebooks, or movies. This has become more complicated recently with the creating of 3D mapped objects that are able to be printed, allowing things like objects to become archived while also bringing up questions about whether a copy of an object can subtsitute for the object itself.
 
-> Questions
->> What other uses can you think of for making archives digital?
->> What are the limitations of digital formats, and how will they affect the future of archives
+  ##### Questions
+  - What other uses can you think of for making archives digital?
+  - What are the limitations of digital formats, and how will they affect the future of archives
 
 ### Benefits
 
