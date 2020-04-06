@@ -25,9 +25,13 @@ For my post, I will be discussing the digital archives that digital versions of 
 
 Because of the limited capabilities of the internet (i.e. we cannot download a pizza YET), archives are mostly useful for media that can be in a file format that can be downladed like music, images, ebooks, or movies. This has become more complicated recently with the creating of 3D mapped objects that are able to be printed, allowing things like objects to become archived while also bringing up questions about whether a copy of an object can subtsitute for the object itself.
 
+> Questions
+>> What other uses can you think of for making archives digital?
+>> What are the limitations of digital formats, and how will they affect the future of archives
+
 ### Benefits
 
-In general, digital archives are beneficial in that they preserve files and digital objects that may have any number of things happen to them. Digital archives are useful for us as historians because they make often difficult to find sources searchable and available for use. These archives can be brought further and become more enriched with the addition of meta- and paradata which add context and can be used to create a narrative. From the example of THIS, by becoming a collection of archival material, these stories and images are telling a specific story. This is why while a collection of files is technically an archive, it is in the way that an old man's collection of newspapers since the 80s are: it's interesting and a lot of stuff, but more work has to be done to make it usable. 
+In general, digital archives are beneficial in that they preserve files and digital objects that may have any number of things happen to them. Digital archives are useful for us as historians because they make often difficult to find sources searchable and available for use. These archives can be brought further and become more enriched with the addition of meta- and paradata which add context and can be used to create a narrative. This is why while a collection of files is technically an archive, it is in the way that an old man's collection of newspapers since the 80s are: it's interesting and a lot of stuff, but more work has to be done to make it usable. 
 
 Digital archives are also good in that they allow the archivists to access files and sources in order to add them to their own collections, enriching networks between archives in a way that traditional means do not allow. Duplicating a public domain file is much easier than duplicating a real object. 
 
